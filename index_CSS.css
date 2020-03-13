@@ -1,0 +1,49 @@
+a {
+	color: red;
+	font-size: 40px;
+	font-family: 'Caveat';
+
+}
+
+
+
+h1 {
+	 
+	border: 2px solid red:;
+	margin-left: 0 auto;
+
+}
+
+h2 {
+	color: #ff00bb;
+	font-size: 60px;
+	text-align: center;
+}
+
+.foto {
+		margin-left: 400px; 
+		margin-top: 0px;
+}
+
+body {
+	background:#bdfdff;
+	font-family: 'Caveat';
+	color: #ff00d0;
+	font-size: 40px;
+
+}
+
+
+
+div{
+	font-size: 40px;
+	color:black;
+	text-align: center;
+
+}
+
+.pod{
+	font-family: 'Poiret One';
+	font-size: 20px;
+}
+
